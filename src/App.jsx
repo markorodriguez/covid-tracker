@@ -32,7 +32,7 @@ function App() {
   return (
     <div className="general-container">
       <div className="my-navbar">
-        <h1>Covid19 Map</h1>
+        <h1>COVID-19 Map</h1>
       </div>
 
       {isLoading === false ? (
